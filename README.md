@@ -1,3 +1,5 @@
 # mvvm_todolist
 
-A new Flutter project.
+MVVMアーキテクチャ + Riverpodを用いたToDoリストアプリ
+
+MVVMアーキテクチャの練習として作成した。
